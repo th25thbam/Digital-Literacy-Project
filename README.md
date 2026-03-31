@@ -1,7 +1,8 @@
 ## 🌐 Digital Literacy Project
 ## 👤 Student Details
 Name: Atharv Vijayvargiya
-Registration Number: 25BAI10420 Branch: Computer Science Engineering
+Registration Number: 25BAI10420 
+Branch: Computer Science Engineering
 Year: 1st Year
 Course Code: CSE0001
 University: VIT Bhopal University
