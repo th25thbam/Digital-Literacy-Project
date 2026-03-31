@@ -12,21 +12,13 @@ This project was completed as part of the Digital Literacy course. The objective
 
 ## 📂 Repository Structure
 Digital-Literacy-Project/
-
 │── README.md
-
 │
-
 ├── project_report/
-
 ├── task1-presentation/
-
 ├── task2-portfolio/
-
 ├── task3-platforms/
-
 ├── task4-email etiquettes/
-
 └── task5-cybercrime/
 
 ## ✅ Tasks Completed
